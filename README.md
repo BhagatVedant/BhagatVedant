@@ -1,19 +1,13 @@
-<table>
-<tr>
-<td width="55%">
+<p align="center">
+<img src="./assets/night_ascii.gif" width="720">
+</p>
 
-### CS student @ Centre College  
-Creating, destroying, and rebuilding.
+<pre align="center">
+╭────────────────────────────────────────────────────╮
+│ vedant@github:~$ building things that shouldn't work▌
+╰────────────────────────────────────────────────────╯
+</pre>
 
-I'm Vedant — I like building systems, experimenting with ideas,  
-and occasionally breaking things while figuring out how they work.
-
-</td>
-
-<td width="45%">
-
-<img src="./assets/night_drive_ascii.gif" width="320"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+CS student @ Centre College
+</p>
