@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BhagatVedant/BhagatVedant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/night_drive_ascii.gif" width="750"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+
+### CS student @ Centre College  
+Creating, destroying, and rebuilding.
+
+</div>
