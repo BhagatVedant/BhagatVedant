@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/night-ascii-art.gif" width="460" alt="Animated ASCII artwork">
+  <img src="./assets/night-ascii-art.gif" width="580" alt="Animated ASCII artwork">
 </p>
 
 <h1 align="center">Hi, I'm Vedant Bhagat</h1>
@@ -11,12 +11,15 @@
 </p>
 
 <p align="center">
+  Co-founder and software developer at <strong>Unemployment Avoidance Studios</strong>,<br>
+  a two-person indie game studio.
+</p>
+
+<p align="center">
   <a href="https://unemploymentavoidance.itch.io/">Play our games</a>
   ·
   <a href="https://www.linkedin.com/in/vedant-bhagat/">LinkedIn</a>
 </p>
-
-Co-founder and software developer at **Unemployment Avoidance Studios**, a two-person indie game studio.
 
 ## Selected Projects
 
